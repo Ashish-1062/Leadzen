@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Leadzen/static/css/main.f3cb44a2.css",
+    "main.js": "/Leadzen/static/js/main.b8c529a4.js",
+    "index.html": "/Leadzen/index.html",
+    "main.f3cb44a2.css.map": "/Leadzen/static/css/main.f3cb44a2.css.map",
+    "main.b8c529a4.js.map": "/Leadzen/static/js/main.b8c529a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3cb44a2.css",
+    "static/js/main.b8c529a4.js"
+  ]
+}
